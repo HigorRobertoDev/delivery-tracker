@@ -32,7 +32,7 @@ O banco SQLite (`delivery.db`) é criado automaticamente na pasta `backend`.
 
 ```bash
 cd frontend
-npm install
+npm install // Caso apresente problemas, ajustar o comando para npm install --legacy-peer-deps
 npm run dev
 ```
 
